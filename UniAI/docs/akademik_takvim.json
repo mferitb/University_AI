@@ -1,0 +1,86 @@
+{
+  "akademik_takvim": {
+    "guz_donemi": {
+      "yeni_kayitlar": "19-23 Ağustos 2024",
+      "katki_paylari_ve_ogrenim_ucretleri": "09-13 Eylül 2024",
+      "ders_kayitlari": "09-13 Eylül 2024",
+      "danisman_onayi": "09-16 Eylül 2024",
+      "yabanci_dil_muafiyet_sinavi": "13 Eylül 2024",
+      "ders_baslangici": "16 Eylül 2024",
+      "ders_ekleme_birakma": "27 Eylül 2024",
+      "ara_sinavlar": "02-10 Kasım 2024",
+      "ders_sonlanma": "29 Aralık 2024",
+      "yarıyil_sonu_sinavlari": "30 Aralık 2024 - 10 Ocak 2025",
+      "butunleme_sinavlari": "20-24 Ocak 2025",
+      "tek_ders_sinavi_basvuru_son": "29 Ocak 2025",
+      "tek_ders_sinavi": "31 Ocak 2025"
+    },
+    "bahar_donemi": {
+      "katki_paylari_ve_ogrenim_ucretleri": "03-07 Şubat 2025",
+      "ders_kayitlari": "03-07 Şubat 2025",
+      "danisman_onayi": "03-10 Şubat 2025",
+      "ders_baslangici": "10 Şubat 2025",
+      "ders_ekleme_birakma": "21 Şubat 2025",
+      "ara_sinavlar": "05-13 Nisan 2025",
+      "ders_sonlanma": "25 Mayıs 2025",
+      "yarıyil_sonu_sinavlari": "26 Mayıs - 04 Haziran 2025",
+      "butunleme_sinavlari": "16-20 Haziran 2025",
+      "tek_ders_sinavi_basvuru_son": "25 Haziran 2025",
+      "tek_ders_sinavi": "27 Haziran 2025",
+      "ek_sinavlar": {
+        "birinci": "30 Haziran - 04 Temmuz 2025",
+        "ikinci": "14-18 Temmuz 2025"
+      }
+    },
+    "yatay_gecis": {
+      "kurumlar_arasi": {
+        "guz_yariyili": {
+          "basvuru": "29.07.2024 - 02.08.2024",
+          "sonuclar": "13.08.2024",
+          "asil_kayit": "15.08.2024 - 16.08.2024",
+          "yedek_kayit": "20.08.2024"
+        },
+        "bahar_yariyili": {
+          "basvuru": "13.01.2025 - 17.01.2025",
+          "sonuclar": "24.01.2025",
+          "asil_kayit": "27.01.2025 - 28.01.2025",
+          "yedek_kayit": "31.01.2025"
+        }
+      },
+      "ek_madde_1": {
+        "guz_yariyili": {
+          "basvuru": "01.08.2024 - 15.08.2024",
+          "sonuclar": "23.08.2024",
+          "asil_kayit": "26.08.2024 - 27.08.2024",
+          "yedek_kayit": "29.08.2024"
+        },
+        "bahar_yariyili": {
+          "basvuru": "06.01.2025 - 10.01.2025",
+          "sonuclar": "17.01.2025",
+          "asil_kayit": "20.01.2025 - 21.01.2025",
+          "yedek_kayit": "24.01.2025"
+        }
+      }
+    },
+    "resmi_tatiller": {
+      "cumhuriyet_bayrami": "28-29 Ekim 2024",
+      "yilbasi": "01 Ocak 2025",
+      "ramazan_bayrami": "29 Mart - 01 Nisan 2025",
+      "ulusal_egemenlik": "23 Nisan 2025",
+      "emek_ve_dayanisma": "01 Mayıs 2025",
+      "ataturku_anma": "19 Mayıs 2025",
+      "kurban_bayrami": "05-09 Haziran 2025",
+      "15_temmuz": "15 Temmuz 2025",
+      "zafer_bayrami": "30 Ağustos 2025"
+    },
+    "yaz_okulu": {
+      "muracaat": "23-24 Haziran 2025",
+      "kesin_ders_kaydi_ve_ucret": "26-27 Haziran 2025",
+      "ders_baslangici": "30 Haziran 2025",
+      "ders_bitis": "15 Ağustos 2025",
+      "yarıyil_sonu_sinavlari": "18-20 Ağustos 2025",
+      "tek_ders_sinavi_basvuru_son": "01 Eylül 2025",
+      "tek_ders_sinavi": "03 Eylül 2025"
+    }
+  }
+}

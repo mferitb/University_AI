@@ -1,0 +1,194 @@
+{
+  "menu": [
+    {
+      "date": "01.05.2025",
+      "meals": [],
+      "note": "TATİL"
+    },
+    {
+      "date": "02.05.2025",
+      "meals": [
+        "TAVUK BUT",
+        "YOĞURTLU MANTI",
+        "EZOGELİN ÇORBA",
+        "MEYVE"
+      ]
+    },
+    {
+      "date": "05.05.2025",
+      "meals": [
+        "ETLİ KURU FASULYE",
+        "PİRİNÇ PİLAVI",
+        "TURŞU",
+        "YOĞURT"
+      ]
+    },
+    {
+      "date": "06.05.2025",
+      "meals": [
+        "TAVUK KAVURMA",
+        "SOSLU MAKARNA",
+        "YAYLA ÇORBA",
+        "TULUMBA TATLISI"
+      ]
+    },
+    {
+      "date": "07.05.2025",
+      "meals": [
+        "TAS KEBABI",
+        "BULGUR PİLAVI",
+        "EZOGELİN ÇORBA",
+        "SALATA"
+      ]
+    },
+    {
+      "date": "08.05.2025",
+      "meals": [
+        "İZMİR KÖFTE",
+        "PEYNİRLİ MAKARNA",
+        "DOMATES ÇORBA",
+        "MEYVE"
+      ]
+    },
+    {
+      "date": "09.05.2025",
+      "meals": [
+        "SEBZELİ KAVURMA",
+        "PİRİNÇ PİLAVI",
+        "MERCİMEK ÇORBA",
+        "AYRAN"
+      ]
+    },
+    {
+      "date": "12.05.2025",
+      "meals": [
+        "FIRINDA SOSLU TAVUK BAGET",
+        "SOSLU MAKARNA",
+        "YAYLA ÇORBA",
+        "MEYVE"
+      ]
+    },
+    {
+      "date": "13.05.2025",
+      "meals": [
+        "KIYMALI PİDE",
+        "SALATA",
+        "MERCİMEK ÇORBA",
+        "AYRAN"
+      ]
+    },
+    {
+      "date": "14.05.2025",
+      "meals": [
+        "ÇÖKERTME KEBABI",
+        "SADE MAKARNA",
+        "KÖYLÜM ÇORBA",
+        "SALATA"
+      ]
+    },
+    {
+      "date": "15.05.2025",
+      "meals": [
+        "FIRINDA SEBZELİ KÖFTE",
+        "BULGUR PİLAVI",
+        "ŞEHRİYE ÇORBA",
+        "TRİLİÇE"
+      ]
+    },
+    {
+      "date": "16.05.2025",
+      "meals": [
+        "PARMAK KEBABI",
+        "PİRİNÇ PİLAVI",
+        "MERCİMEK ÇORBA",
+        "YOĞURT"
+      ]
+    },
+    {
+      "date": "19.05.2025",
+      "meals": [],
+      "note": "TATİL"
+    },
+    {
+      "date": "20.05.2025",
+      "meals": [
+        "ETLİ NOHUT",
+        "PİRİNÇ PİLAVI",
+        "TURŞU",
+        "YOĞURT"
+      ]
+    },
+    {
+      "date": "21.05.2025",
+      "meals": [
+        "BAHÇIVAN KEBABI",
+        "PİRİNÇ PİLAVI",
+        "GERM ÇORBA",
+        "SALATA"
+      ]
+    },
+    {
+      "date": "22.05.2025",
+      "meals": [
+        "SULU KÖFTE",
+        "BULGUR PİLAVI",
+        "ŞEHRİYE ÇORBA",
+        "CACIK"
+      ]
+    },
+    {
+      "date": "23.05.2025",
+      "meals": [
+        "ETLİ TÜRLÜ",
+        "PİRİNÇ PİLAVI",
+        "MERCİMEK ÇORBA",
+        "REVANİ"
+      ]
+    },
+    {
+      "date": "26.05.2025",
+      "meals": [
+        "ETLİ KURU FASULYE",
+        "PİRİNÇ PİLAVI",
+        "TURŞU",
+        "YOĞURT"
+      ]
+    },
+    {
+      "date": "27.05.2025",
+      "meals": [
+        "KIYMALI PİDE",
+        "SALATA",
+        "EZOGELİN ÇORBA",
+        "AYRAN"
+      ]
+    },
+    {
+      "date": "28.05.2025",
+      "meals": [
+        "SEBZELİ TAVUK",
+        "YOĞURTLU MAKARNA",
+        "KÖYLÜM ÇORBA",
+        "SALATA"
+      ]
+    },
+    {
+      "date": "29.05.2025",
+      "meals": [
+        "PATATES OTURTMA",
+        "BULGUR PİLAVI",
+        "YAYLA ÇORBA",
+        "MEYVE"
+      ]
+    },
+    {
+      "date": "30.05.2025",
+      "meals": [
+        "ETLİ GÜVEÇ",
+        "PİRİNÇ PİLAVI",
+        "MERCİMEK ÇORBA",
+        "CACIK"
+      ]
+    }
+  ]
+}
