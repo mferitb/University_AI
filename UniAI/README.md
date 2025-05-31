@@ -112,12 +112,9 @@ uni-ai/
 4. Dalınıza push yapın (`git push origin feature/amazing-feature`)
 5. Bir Pull Request oluşturun
 
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ## İletişim
 
-Proje Sahibi - [@github_username](https://github.com/github_username)
+Proje Sahibi - [@github_username](https://github.com/mferitb)
 
-Proje Linki: [https://github.com/github_username/uni-ai](https://github.com/github_username/uni-ai) 
+Proje Linki: [https://github.com/github_username/uni-ai](https://github.com/mferitb/University_AI) 
