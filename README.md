@@ -115,9 +115,9 @@ uni-ai/
 
 ## İletişim
 
-Proje Sahibi - [@github_username](https://github.com/mferitb)
+Proje Sahibi - [@mferitb](https://github.com/mferitb)
 
-Proje Linki: [https://github.com/github_username/uni-ai](https://github.com/mferitb/University_AI) 
+Proje Linki: [https://github.com/mferitb/university-ai](https://github.com/mferitb/University_AI) 
 
 
 ![Ekran görüntüsü 2025-05-31 131340](https://github.com/user-attachments/assets/7cd599c6-a972-4fc2-8d88-a84c26460394)
